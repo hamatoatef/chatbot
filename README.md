@@ -8,6 +8,8 @@ This AI-powered chatbot enables users to search, query, and interact with PDF do
 
 ## 🎥 Demo 
 
+https://github.com/user-attachments/assets/185364ab-b078-4857-aadc-83476ede5144
+
 ## 🚀 Features
 
 - **Conversational PDF Interaction:** Upload PDF documents and engage with their content using natural language queries.
